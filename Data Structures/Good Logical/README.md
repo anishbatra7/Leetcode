@@ -1,1 +1,1 @@
-# Array Questions Cheatsheet
+# Good Logical Questions Cheatsheet
