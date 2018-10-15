@@ -3,7 +3,7 @@
 ### Bitwise operations:
 
 The java.lang.Integer.bitCount() method returns the number of one-bits in the two's complement binary representation of the specified int value i. This is sometimes referred to as the population count.
------
+______
 
 Queue for breadth-first search
 
@@ -12,7 +12,7 @@ final Queue<TreeNode> queue = new LinkedList<>();
 
 Linked List problems are relatively easy to master. Do not forget the Two-pointer technique, which not only applicable to Array problems but also Linked List problems as well.
 Another technique to greatly simplify coding in linked list problems is the dummy node trick.
------
+_____
 
 ### Trees:
 
@@ -58,6 +58,6 @@ to the priority in case of priority queue implementation.
 - remove()- This method removes and returns the head of the queue. It throws NoSuchElementException when the queue is impty.
 - poll()- This method removes and returns the head of the queue. It returns null if the queue is empty. 
 
----
+_____
 
 
