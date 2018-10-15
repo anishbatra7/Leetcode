@@ -1,1 +1,1 @@
-# Array Questions Cheatsheet
+# Stack Questions Cheatsheet
