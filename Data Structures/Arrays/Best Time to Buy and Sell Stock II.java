@@ -1,7 +1,7 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         
-         Map<Character, Integer> count = new HashMap<>();
+        Map<Character, Integer> count = new HashMap<>();
         
         for(char c : s.toCharArray()){
             if(count.containsKey(c)){
