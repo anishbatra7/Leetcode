@@ -2,12 +2,13 @@
 
 ### Bitwise operations:
 
-The java.lang.Integer.bitCount() method returns the number of one-bits in the two's complement binary representation of the specified int value i. This is sometimes referred to as the population count.
+The *java.lang.Integer.bitCount()* method returns the number of one-bits in the two's complement binary representation of the specified int value i. This is sometimes referred to as the population count.
 ______
 
 Queue for breadth-first search
 
 final Queue<TreeNode> queue = new LinkedList<>();
+    
 ### Linked List:
 
 Linked List problems are relatively easy to master. Do not forget the Two-pointer technique, which not only applicable to Array problems but also Linked List problems as well.
@@ -17,6 +18,10 @@ _____
 ### Trees:
 
 To understand recursion on trees: watch "recursive program to count the number of nodes", "recursive program to count the number of leaves and non leaves", "recursive program to find the height of a tree"
+
+*It is not easy to understand recursion and find out a recursion solution for the problem.
+When you meet a tree problem, ask yourself two questions: can you determine some parameters to help the node know the answer of itself? Can you use these parameters and the value of the node itself to determine what should be the parameters parsing to its children? If the answers are both yes, try to solve this problem using a "top-down" recursion solution.
+Or you can think the problem in this way: for a node in a tree, if you know the answer of its children, can you calculate the answer of the node? If the answer is yes, solving the problem recursively from bottom up might be a good way.*
 
 -> base condtions generally include things like - when root is null, when tree is a leaf etc.
 
