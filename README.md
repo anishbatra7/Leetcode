@@ -1,4 +1,4 @@
-# Leetcode
+# Coding Cheatsheet
 
 ### Bitwise operations:
 
@@ -21,6 +21,8 @@ To understand recursion on trees: watch "recursive program to count the number o
 -> base condtions generally include things like - when root is null, when tree is a leaf etc.
 
 Idea is: *first write the recursive equation. see what the halt condition should be. And then write the function (and try to trace the tree to understand better)*
+
+To get idea: refer to these - [Top-down and Bottom-up approach](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/)
 
 **Level order traversal** - Breadth first search
 
