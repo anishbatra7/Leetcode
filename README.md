@@ -21,7 +21,7 @@ To understand recursion on trees: watch "recursive program to count the number o
 
 *It is not easy to understand recursion and find out a recursion solution for the problem.
 When you meet a tree problem, ask yourself two questions: can you determine some parameters to help the node know the answer of itself? Can you use these parameters and the value of the node itself to determine what should be the parameters parsing to its children? If the answers are both yes, try to solve this problem using a "top-down" recursion solution.
-Or you can think the problem in this way: for a node in a tree, if you know the answer of its children, can you calculate the answer of the node? If the answer is yes, solving the problem recursively from bottom up might be a good way.*
+Or you can think the problem in this way: for a node in a tree, if you know the answer of its children, can you calculate the answer of the node? If the answer is yes, solving the problem recursively from "bottom up" might be a good way.*
 
 -> base condtions generally include things like - when root is null, when tree is a leaf etc.
 
