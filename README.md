@@ -24,9 +24,9 @@ Idea is: *first write the recursive equation. see what the halt condition should
 
 To get idea: refer to these - [Top-down and Bottom-up approach](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/)
 
-**Level order traversal** - Breadth first search
-
 Preorder, Inorder, Postorder - Depth first search
+
+**Level order traversal** - Breadth first search - which uses Queue interface with LinkedList implementation (reference - [Linked List implementation - List and Queue interface](https://stackoverflow.com/questions/15608026/difference-in-linkedlist-queue-vs-list))
 
 ```
 public class Solution {
