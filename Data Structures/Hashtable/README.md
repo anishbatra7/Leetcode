@@ -1,1 +1,1 @@
-# Array Questions Cheatsheet
+# Hashtable Questions Cheatsheet
